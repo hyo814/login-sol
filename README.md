@@ -26,3 +26,7 @@ https://www.yceffort.kr/2020/01/think-about-fetch/
 http://hacks.mozilla.or.kr/2015/05/this-api-is-so-fetching/
 
 https://www.javascripture.com/Response
+
+
+#get 과 post
+https://mommoo.tistory.com/60
